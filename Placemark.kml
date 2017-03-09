@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Placemark>
+	<description><![CDATA[<TABLE><TR><TD COLSPAN=2>CRUZ  ROMERO</TD></TR><TR><TD>FOLIO</TD><TD>11</TD></TR><TR><TD>SEXO</TD><TD>1 HOMBRE</TD></TR></TABLE>]]></description>
+	<ExtendedData>
+		<SchemaData schemaUrl="#xls_20151217042929">
+			<SimpleData name="Name"></SimpleData>
+			<SimpleData name="Description"><![CDATA[<TABLE><TR><TD COLSPAN=2>CRUZ  ROMERO</TD></TR><TR><TD>FOLIO</TD><TD>11</TD></TR><TR><TD>SEXO</TD><TD>1 HOMBRE</TD></TR></TABLE>]]></SimpleData>
+			<SimpleData name="Latitude">21.5041651</SimpleData>
+			<SimpleData name="Longitude">-104.8945887</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<gx:balloonVisibility>1</gx:balloonVisibility>
+	<Point>
+		<coordinates>-104.8945887,21.5041651,0</coordinates>
+	</Point>
+</Placemark>
+</kml>
